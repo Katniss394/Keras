@@ -1,7 +1,9 @@
 
 Linear Regression - Train a set of weights for a linear regression model.
 
-Claasification - Builds a NN to classify iris flowers and saves it to disk.
+Classification - Builds a NN to classify iris flowers and saves it to disk.
+
+Loading a model from disk - Load the iris classifier from a saved model.
 
 Image Classification - Builds a CNN for binary image classification (Cats and Dogs).
 
